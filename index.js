@@ -74,8 +74,6 @@ function superbowlWin ( record )
         return win.year;
     }
 
-         return undefined;
-    
-   
+         return undefined;  
    
 }
